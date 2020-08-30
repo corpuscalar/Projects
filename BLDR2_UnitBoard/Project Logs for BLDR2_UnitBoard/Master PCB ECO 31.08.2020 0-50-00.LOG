@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+12 Pin=XP1-1
+Removed Pin From Net: NetName=+12 Pin=XP1-2
+Removed Pin From Net: NetName=+12 Pin=XP1-3
+Removed Pin From Net: NetName=+12 Pin=XP1-4
+Removed Pin From Net: NetName=+12 Pin=XP1-5
+Removed Pin From Net: NetName=+12 Pin=XP1-6
+Removed Pin From Net: NetName=+12 Pin=XP1-7
+Removed Pin From Net: NetName=+12 Pin=XP1-8
+Added Component: Designator=F2(FUSE_LITTEL_0154)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=F2-1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-1
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-2
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-3
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-4
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-5
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-6
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-7
+Added Pin To Net: NetName=NetF2_2 Pin=XP1-8
+Added Net: Name=NetF2_2
+Added Member To Class: ClassName=Master Member=Component F2 2A
