@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=+12 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VCC Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=D2-A
+Removed Pin From Net: NetName=VCC Pin=D2-C
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=POT1 Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=TP1-1
+Removed Pin From Net: NetName=VCC Pin=TP3-1
+Removed Pin From Net: NetName=POT1 Pin=TP10-1
+Removed Pin From Net: NetName=POT2 Pin=TP11-1
+Removed Pin From Net: NetName=+12 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=POT2 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=VCC Pin=U2-6
+Removed Pin From Net: NetName=ON_INV Pin=U2-11
+Removed Pin From Net: NetName=PWM_INV Pin=U2-13
+Removed Pin From Net: NetName=PWM_LED Pin=U2-14
+Removed Pin From Net: NetName=VCC Pin=U2-18
+Removed Pin From Net: NetName=GND Pin=U2-21
+Removed Pin From Net: NetName=POT1 Pin=U2-32
+Removed Pin From Net: NetName=VCC Pin=XP4-2
+Removed Pin From Net: NetName=GND Pin=XP4-6
+Removed Member From Class: ClassName=PWM_PART Member=C1
+Removed Member From Class: ClassName=PWM_PART Member=C2
+Removed Member From Class: ClassName=PWM_PART Member=C3
+Removed Member From Class: ClassName=PWM_PART Member=C4
+Removed Member From Class: ClassName=PWM_PART Member=C5
+Removed Member From Class: ClassName=PWM_PART Member=C6
+Removed Member From Class: ClassName=PWM_PART Member=C7
+Removed Member From Class: ClassName=PWM_PART Member=C8
+Removed Member From Class: ClassName=PWM_PART Member=C9
+Removed Member From Class: ClassName=PWM_PART Member=D2
+Removed Member From Class: ClassName=PWM_PART Member=R1
+Removed Member From Class: ClassName=PWM_PART Member=R2
+Removed Member From Class: ClassName=PWM_PART Member=R3
+Removed Member From Class: ClassName=PWM_PART Member=R4
+Removed Member From Class: ClassName=PWM_PART Member=R5
+Removed Member From Class: ClassName=PWM_PART Member=R12
+Removed Member From Class: ClassName=PWM_PART Member=R13
+Removed Member From Class: ClassName=PWM_PART Member=TP1
+Removed Member From Class: ClassName=PWM_PART Member=TP2
+Removed Member From Class: ClassName=PWM_PART Member=TP3
+Removed Member From Class: ClassName=PWM_PART Member=TP4
+Removed Member From Class: ClassName=PWM_PART Member=TP5
+Removed Member From Class: ClassName=PWM_PART Member=TP6
+Removed Member From Class: ClassName=PWM_PART Member=TP10
+Removed Member From Class: ClassName=PWM_PART Member=TP11
+Removed Member From Class: ClassName=PWM_PART Member=U1
+Removed Member From Class: ClassName=PWM_PART Member=U2
+Removed Member From Class: ClassName=PWM_PART Member=XP4
+Removed Member From Class: ClassName=PWM_PART Member=Y1
+Added Component: Designator=U?(TSSOP_20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA8-16AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA8-16AU/Microchip/view-part/4246640/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PWM_PART Member=Component U? STM32F030F4P6
